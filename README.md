@@ -1,2 +1,2 @@
 # vanilla-color-flipper
-##colors generator
+## colors generator
